@@ -8,6 +8,8 @@ class TestingcicdApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("In Testing.....");
+		assert (true);
 	}
 
 }
