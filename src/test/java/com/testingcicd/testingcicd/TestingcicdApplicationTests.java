@@ -13,6 +13,8 @@ class TestingcicdApplicationTests {
 	void contextLoads() {
 		logger.info("In Testing.....");
 		logger.info("In Testing..2...");
+		logger.info("In Testing..3...");
+
 		assert (true);
 	}
 

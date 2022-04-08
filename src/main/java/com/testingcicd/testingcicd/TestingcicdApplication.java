@@ -12,6 +12,7 @@ public class TestingcicdApplication {
 
 	public static void main(String[] args) {
 		logger.info("In logger Main method.....");
+		logger.info("In logger Main test 2method.....");
 		SpringApplication.run(TestingcicdApplication.class, args);
 	}
 
