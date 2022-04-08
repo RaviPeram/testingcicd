@@ -14,7 +14,7 @@ class TestingcicdApplicationTests {
 		logger.info("In Testing.....");
 		logger.info("In Testing..2...");
 		logger.info("In Testing..3...");
-
+		logger.info("In Testing..4...");
 		assert (true);
 	}
 
